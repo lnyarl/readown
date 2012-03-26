@@ -9,6 +9,7 @@
 		<dict>
 			<key>CFBundleTypeExtensions</key>
 			<array>
+				<string>md</string>
 				<string>markdown</string>
 				<string>mkdn</string>
 				<string>md</string>
