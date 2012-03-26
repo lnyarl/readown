@@ -9,6 +9,7 @@
 		<dict>
 			<key>CFBundleTypeExtensions</key>
 			<array>
+				<string>mdown</string>
 				<string>md</string>
 				<string>markdown</string>
 				<string>mkdn</string>
@@ -45,7 +46,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.4</string>
+	<string>1.0.5</string>
 	<key>NSMainNibFile</key>
 	<string>MarkdownDocument</string>
 	<key>NSPrincipalClass</key>
